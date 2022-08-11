@@ -1,0 +1,66 @@
+E:\project2\school_managment_system\bin\Debug\school_managment_system.exe.config
+E:\project2\school_managment_system\bin\Debug\school_managment_system.exe
+E:\project2\school_managment_system\bin\Debug\school_managment_system.pdb
+E:\project2\school_managment_system\obj\Debug\school_managment_system.Properties.Resources.resources
+E:\project2\school_managment_system\obj\Debug\school_managment_system.csproj.GenerateResource.cache
+E:\project2\school_managment_system\obj\Debug\school_managment_system.csproj.CoreCompileInputs.cache
+E:\project2\school_managment_system\obj\Debug\school_managment_system.exe
+E:\project2\school_managment_system\obj\Debug\school_managment_system.pdb
+E:\project2\school_managment_system\obj\Debug\school_managment_system.Form1.resources
+E:\project2\school_managment_system\obj\Debug\school_managment_system.csproj.CopyComplete
+E:\project2\school_managment_system\bin\Debug\MetroFramework.Design.dll
+E:\project2\school_managment_system\bin\Debug\MetroFramework.dll
+E:\project2\school_managment_system\bin\Debug\MetroFramework.Fonts.dll
+E:\project2\school_managment_system\bin\Debug\Transitions.dll
+E:\project2\school_managment_system\obj\Debug\school_managment_system.Slide_Panel.panel.resources
+E:\project dism\school_managment_system\bin\Debug\school_managment_system.exe.config
+E:\project dism\school_managment_system\bin\Debug\school_managment_system.exe
+E:\project dism\school_managment_system\bin\Debug\school_managment_system.pdb
+E:\project dism\school_managment_system\bin\Debug\MetroFramework.Design.dll
+E:\project dism\school_managment_system\bin\Debug\MetroFramework.dll
+E:\project dism\school_managment_system\bin\Debug\MetroFramework.Fonts.dll
+E:\project dism\school_managment_system\bin\Debug\Transitions.dll
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.csprojAssemblyReference.cache
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.Forms.add_teacher.resources
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.Forms.add_user.resources
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.Forms.Attendence.resources
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.Forms.Billing.resources
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.Forms.Enrollment.resources
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.Forms.Home.resources
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.Login.resources
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.Forms.Manage_users.resources
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.Forms.Students.resources
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.Forms.Teachers.resources
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.Properties.Resources.resources
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.Slide_Panel.panel.resources
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.csproj.GenerateResource.cache
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.csproj.CoreCompileInputs.cache
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.csproj.CopyComplete
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.exe
+E:\project dism\school_managment_system\obj\Debug\school_managment_system.pdb
+D:\project dism final\school_managment_system\bin\Debug\school_managment_system.exe.config
+D:\project dism final\school_managment_system\bin\Debug\school_managment_system.exe.manifest
+D:\project dism final\school_managment_system\bin\Debug\school_managment_system.application
+D:\project dism final\school_managment_system\bin\Debug\school_managment_system.exe
+D:\project dism final\school_managment_system\bin\Debug\school_managment_system.pdb
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.csproj.AssemblyReference.cache
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.csproj.SuggestedBindingRedirects.cache
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.Forms.add_teacher.resources
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.Forms.add_user.resources
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.Forms.Attendence.resources
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.Forms.Billing.resources
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.Forms.Enrollment.resources
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.Forms.Home.resources
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.Login.resources
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.Forms.Manage_users.resources
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.Forms.Students.resources
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.Forms.Teachers.resources
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.Properties.Resources.resources
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.Slide_Panel.panel.resources
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.csproj.GenerateResource.cache
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.csproj.CoreCompileInputs.cache
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.exe.manifest
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.application
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.csproj.CopyComplete
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.exe
+D:\project dism final\school_managment_system\obj\Debug\school_managment_system.pdb

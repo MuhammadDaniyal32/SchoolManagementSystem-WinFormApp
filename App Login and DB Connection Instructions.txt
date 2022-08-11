@@ -1,0 +1,11 @@
+Login Info:
+
+Username = DANIYAL
+
+Password = daniyal
+
+Account Type = admin
+
+Database Info:
+
+Database name = school_management_system
